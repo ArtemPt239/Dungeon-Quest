@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:id="@+id/MainLayout">
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+
+            android:layout_height="wrap_content" android:layout_gravity="center_horizontal">
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="+"
+                android:layout_weight="1"
+                android:id="@+id/ScaleUpButton"/>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="-"
+                android:layout_weight="1"
+                android:id="@+id/ScaleDownButton" />
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Player's maps"
+                android:layout_weight="1"
+                android:id="@+id/ButtonChangeViewingMap"  android:layout_gravity="top"/>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="End Turn"
+                android:layout_weight="1"
+                android:id="@+id/EndTurnButton"  android:layout_gravity="top"/>
+
+    </LinearLayout>
+
+    <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/FrameLayout">
+
+    </FrameLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+
+            android:layout_height="wrap_content" android:layout_gravity="center_horizontal">
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Items"
+                android:layout_weight="1"
+                android:id="@+id/ItemListOpenButton"/>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="UP"
+                android:layout_weight="1"
+                android:id="@+id/UpButton"  android:layout_gravity="top"/>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shoot"
+                android:layout_weight="1"
+                android:id="@+id/ShootButton" />
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Act"
+                android:layout_weight="1"
+                android:id="@+id/ButtonAct"  android:layout_gravity="top"/>
+
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" android:layout_gravity="center_horizontal">
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Left"
+                android:layout_weight="1"
+                android:id="@+id/LeftButton"/>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Down"
+                android:layout_weight="1"
+                android:id="@+id/DownButton"  android:layout_gravity="top"/>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Right"
+                android:layout_weight="1"
+                android:id="@+id/RightButton" />
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Pick"
+                android:layout_weight="1"
+                android:id="@+id/ItemPickButton" />
+    </LinearLayout>
+
+
+</LinearLayout>
+

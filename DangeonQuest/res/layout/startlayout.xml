@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:weightSum="1">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView" android:layout_gravity="center_horizontal">
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                      android:orientation="vertical"
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent" android:weightSum="1">
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Режим:"
+                    android:textSize="20sp"
+                    android:id="@+id/textViewGameMode"/>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:layout_gravity="center_horizontal">
+                <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageView1" android:layout_gravity="center_horizontal"
+                        android:src="@drawable/warrior"/>
+                <Switch
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="  Player 1"
+                        android:id="@+id/switch1" android:layout_gravity="center" android:checked="false"/>
+                <Spinner
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/spinner1" android:layout_weight="1" android:spinnerMode="dialog"
+                        android:layout_gravity="center"/>
+                <EditText
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/editText1" android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:hint="Имя игрока" android:text="Игрок 1"/>
+            </LinearLayout>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:layout_gravity="center_horizontal">
+                <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageView2" android:layout_gravity="center_horizontal"
+                        android:src="@drawable/warrior"/>
+                <Switch
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="  Player 2"
+                        android:id="@+id/switch2" android:layout_gravity="center" android:checked="false"/>
+                <Spinner
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/spinner2" android:layout_weight="1" android:spinnerMode="dialog"
+                        android:layout_gravity="center"/>
+                <EditText
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/editText2" android:layout_weight="1" android:layout_gravity="center"
+                        android:hint="Имя игрока" android:text="Игрок 2"/>
+
+            </LinearLayout>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:layout_gravity="center_horizontal">
+                <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageView3" android:layout_gravity="center_horizontal"
+                        android:src="@drawable/warrior"/>
+                <Switch
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="  Player 3"
+                        android:id="@+id/switch3" android:layout_gravity="center" android:checked="false"/>
+                <Spinner
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/spinner3" android:layout_weight="1" android:spinnerMode="dialog"
+                        android:layout_gravity="center"/>
+
+                <EditText
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/editText3" android:layout_weight="1" android:layout_gravity="center"
+                        android:hint="Имя игрока"/>
+
+            </LinearLayout>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:layout_gravity="center_horizontal">
+                <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageView4" android:layout_gravity="center_horizontal"
+                        android:src="@drawable/warrior"/>
+                <Switch
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="  Player 4"
+                        android:id="@+id/switch4" android:layout_gravity="center" android:checked="false"/>
+                <Spinner
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/spinner4" android:layout_weight="1" android:spinnerMode="dialog"
+                        android:layout_gravity="center"/>
+                <EditText
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/editText4" android:layout_weight="1" android:layout_gravity="center"
+                        android:hint="Имя игрока"/>
+
+            </LinearLayout>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Start Game"
+                    android:id="@+id/StartGameButton" android:layout_gravity="center_horizontal"/>
+            <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/spinnerMapMode" android:layout_gravity="center_horizontal"/>
+
+            <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/spinnerGameMode" android:layout_gravity="center_horizontal"/>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:layout_gravity="center_horizontal">
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" Кол-во очков хода: "
+                        android:id="@+id/textView" android:layout_gravity="center" android:textSize="22sp"/>
+                <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:ems="10"
+                        android:id="@+id/editTextNumOfTurmPoints"
+                        android:hint="Кол-во движений за ход" android:text="1" android:layout_gravity="center"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent"
+                          android:layout_height="wrap_content" android:layout_gravity="center_horizontal">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                          android:text="Кол-во очков здоровья: 2 " android:id="@+id/textViewMaxNumOfHP" android:layout_gravity="center"
+                          android:textSize="22sp"/>
+                <SeekBar
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/seekBarMaxNumOfHP" android:layout_weight="1" android:max="3"
+                        android:progress="1" android:indeterminate="false"/>
+            </LinearLayout>
+            <Switch
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="  Portals"
+                    android:id="@+id/portalsSwitch" android:textSize="20sp"/>
+            <Switch android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="  Healing fountain"
+                    android:id="@+id/switchHealingFountain" android:textSize="20sp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Спонсор:"
+                    android:id="@+id/textView2" android:textSize="24sp"/>
+            <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageViewAdvert" android:layout_gravity="center_horizontal" android:src="@drawable/ad"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

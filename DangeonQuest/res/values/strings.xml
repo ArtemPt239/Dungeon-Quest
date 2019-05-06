@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dungeon Quest</string>
+    <string name="welcome_message"> Приветствую вас в Dungeon Quest!\n
+        Обо всех багах сообщайте суда: https://vk.com/id20216275\n
+        (Серьёзно, если вы укажете на баг, то я буду благодарен)</string>
+    <string name="player_death_message">Вы умерли. \nВы оказались на кладбище.</string>
+    <string name="classesDescription"> Воин - имеет преимущество в драке врукопашную\n
+        Разбойник может выстрелить, не тратя очки хода, если он ещё не совершал других действий\n
+        Маг может разведывать местность быстрее, используя магические кристаллы\n
+        Охотница стартует с большим запасом стрел
+        Пиромант просто очень красива. А ещё она может сжечь всех с помощью кристалла огня (1 ед. урона).</string>
+    <string-array name="herolist">
+        <item>Воин</item>
+        <item>Разбойник</item>
+        <item>Маг</item>
+        <item>Охотница</item>
+        <item>Пиромант</item>
+    </string-array>
+    <string-array name="mapmodes">
+        <item>Малая карта</item>
+        <item>Средняя карта</item>
+        <item>Случайная карта(Средних размеров)</item>
+        <item>Гигантская карта</item>
+    </string-array>
+
+    <string-array name="gamemodes">
+        <item>Стандартный</item>
+        <item>Открытый</item>
+    </string-array>
+</resources>

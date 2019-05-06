@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="app: com.Pt239.DangeonQuest" />
+        <option name="packageNamePattern" value="com.Pt239.DangeonQuest" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <devices>
+          <device id="Nexus 7 2013" />
+        </devices>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/res/layout/startlayout.xml">
+        <config>
+          <theme>@android:style/Theme.Holo</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.Pt239.DangeonQuest" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a1ac16c-8279-4066-a1b2-241f0e3893e6" name="Default" comment="" />
+    <ignored path="DangeonQuest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="DangeonQuest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="996" max-vertical-offset="2023">
+              <caret line="74" column="34" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cell.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Cell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5989848" vertical-offset="37" max-vertical-offset="697">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1003">
+              <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MapView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4418" max-vertical-offset="5423">
+              <caret line="304" column="132" selection-start-line="304" selection-start-column="132" selection-end-line="304" selection-end-column="132" />
+              <folding>
+                <element signature="docComment;class#MapView#0" expanded="false" />
+                <element signature="method#drawMap#0;class#MapView#0" expanded="false" />
+                <element signature="method#getScale#0;class#MapView#0" expanded="false" />
+                <element signature="method#setScale#0;class#MapView#0" expanded="false" />
+                <element signature="e#3610#3622#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2625" max-vertical-offset="3502">
+              <caret line="1348" column="54" selection-start-line="1348" selection-start-column="54" selection-end-line="1348" selection-end-column="54" />
+              <folding>
+                <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#startTurn#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#doTurn#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#endTurn#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#actionCheck#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#refreshScreen#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#createMessageDialog#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#addMessageForAllPlayers#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#pickItems#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#openItemsList#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#useItem#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#dropItem#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#travelTroughPortal#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#shoot#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#castMagic#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#fightWithNearPlayer#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#fightWithNearMonster#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#dealDamageToPlayer#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#killPlayer#0;class#MainActivity#0" expanded="false" />
+                <element signature="e#66300#66341#0" expanded="false" />
+                <element signature="e#66537#66569#0" expanded="false" />
+                <element signature="e#66817#66857#0" expanded="false" />
+                <element signature="e#67064#67096#0" expanded="false" />
+                <element signature="method#cellCheck#0;class#MainActivity#0" expanded="false" />
+                <element signature="e#71337#71392#0" expanded="false" />
+                <element signature="method#mapCheckHelper#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#openQuitDialog#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#onCreateOptionsMenu#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#onOptionsItemSelected#0;class#MainActivity#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1989">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding>
+                <element signature="docComment;class#Player#0" expanded="false" />
+                <element signature="method#addItem#0;class#Player#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startlayout.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/startlayout.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2672" max-vertical-offset="3298">
+              <caret line="178" column="55" selection-start-line="178" selection-start-column="55" selection-end-line="178" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="629">
+              <caret line="11" column="103" selection-start-line="11" selection-start-column="103" selection-end-line="11" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/StartActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1294" max-vertical-offset="3111">
+              <caret line="169" column="61" selection-start-line="169" selection-start-column="37" selection-end-line="169" selection-end-column="61" />
+              <folding>
+                <element signature="class#1867:2265" expanded="false" />
+                <element signature="method#onItemSelected#0;class#1867:2265" expanded="false" />
+                <element signature="method#onNothingSelected#0;class#1867:2265" expanded="false" />
+                <element signature="class#2407:2805" expanded="false" />
+                <element signature="method#onItemSelected#0;class#2407:2805" expanded="false" />
+                <element signature="method#onNothingSelected#0;class#2407:2805" expanded="false" />
+                <element signature="class#2947:3345" expanded="false" />
+                <element signature="method#onItemSelected#0;class#2947:3345" expanded="false" />
+                <element signature="method#onNothingSelected#0;class#2947:3345" expanded="false" />
+                <element signature="class#3487:3885" expanded="false" />
+                <element signature="method#onItemSelected#0;class#3487:3885" expanded="false" />
+                <element signature="method#onNothingSelected#0;class#3487:3885" expanded="false" />
+                <element signature="class#4250:4868" expanded="false" />
+                <element signature="method#onItemSelected#0;class#4250:4868" expanded="false" />
+                <element signature="method#onNothingSelected#0;class#4250:4868" expanded="false" />
+                <element signature="class#5235:5852" expanded="false" />
+                <element signature="method#onItemSelected#0;class#5235:5852" expanded="false" />
+                <element signature="method#onNothingSelected#0;class#5235:5852" expanded="false" />
+                <element signature="method#onStartTrackingTouch#0;class#9088:9593" expanded="false" />
+                <element signature="method#onStopTrackingTouch#0;class#9088:9593" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Wall.java" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/ShopCell.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/PairOfPortals.java" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Map.java" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/GroupOfPortals.java" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Item.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/layout/startlayout.xml" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/StartActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MapView.java" />
+        <option value="$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Cell.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="30048ee7d7829100" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_7_API_19" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="177" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Артем\IdeaProjects\DangeonQuest\res\drawable-xhdpi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.DangeonQuest">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="DangeonQuest" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="DangeonQuest" />
+      <option name="ACTIVITY_CLASS" value="com.Pt239.DangeonQuest.StartActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.DangeonQuest" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a1ac16c-8279-4066-a1b2-241f0e3893e6" name="Default" comment="" />
+      <created>1461073128426</created>
+      <option name="number" value="Default" />
+      <updated>1461073128426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1376" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1496063" sideWeight="0.3023426" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23263328" sideWeight="0.6976574" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15356356" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4929134" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3279483" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13970588" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.89238656" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1496063" sideWeight="0.3023426" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4929134" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14033799" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.89238656" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23263328" sideWeight="0.6976574" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15356356" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="47" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/StartActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1294" max-vertical-offset="3111">
+          <caret line="169" column="61" selection-start-line="169" selection-start-column="37" selection-end-line="169" selection-end-column="61" />
+          <folding>
+            <element signature="class#1867:2265" expanded="false" />
+            <element signature="method#onItemSelected#0;class#1867:2265" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#1867:2265" expanded="false" />
+            <element signature="class#2407:2805" expanded="false" />
+            <element signature="method#onItemSelected#0;class#2407:2805" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#2407:2805" expanded="false" />
+            <element signature="class#2947:3345" expanded="false" />
+            <element signature="method#onItemSelected#0;class#2947:3345" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#2947:3345" expanded="false" />
+            <element signature="class#3487:3885" expanded="false" />
+            <element signature="method#onItemSelected#0;class#3487:3885" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#3487:3885" expanded="false" />
+            <element signature="class#4250:4868" expanded="false" />
+            <element signature="method#onItemSelected#0;class#4250:4868" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#4250:4868" expanded="false" />
+            <element signature="class#5235:5852" expanded="false" />
+            <element signature="method#onItemSelected#0;class#5235:5852" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#5235:5852" expanded="false" />
+            <element signature="method#onStartTrackingTouch#0;class#9088:9593" expanded="false" />
+            <element signature="method#onStopTrackingTouch#0;class#9088:9593" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="391">
+          <caret line="4" column="241" selection-start-line="4" selection-start-column="241" selection-end-line="4" selection-end-column="241" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="293" max-vertical-offset="2023">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="952">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MapView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="510">
+          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+          <folding>
+            <element signature="docComment;class#MapView#0" expanded="false" />
+            <element signature="method#drawMap#0;class#MapView#0" expanded="false" />
+            <element signature="method#getScale#0;class#MapView#0" expanded="false" />
+            <element signature="method#setScale#0;class#MapView#0" expanded="false" />
+            <element signature="e#3610#3622#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1394">
+          <caret line="274" column="43" selection-start-line="274" selection-start-column="43" selection-end-line="274" selection-end-column="43" />
+          <folding>
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#startTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#doTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#endTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#actionCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#refreshScreen#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#createMessageDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#addMessageForAllPlayers#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#pickItems#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openItemsList#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#useItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dropItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#travelTroughPortal#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#shoot#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#castMagic#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearMonster#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dealDamageToPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#killPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#66300#66341#0" expanded="false" />
+            <element signature="e#66537#66569#0" expanded="false" />
+            <element signature="e#66817#66857#0" expanded="false" />
+            <element signature="e#67064#67096#0" expanded="false" />
+            <element signature="method#cellCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#71337#71392#0" expanded="false" />
+            <element signature="method#mapCheckHelper#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openQuitDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/StartActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="class#1867:2265" expanded="false" />
+            <element signature="method#onItemSelected#0;class#1867:2265" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#1867:2265" expanded="false" />
+            <element signature="class#2407:2805" expanded="false" />
+            <element signature="method#onItemSelected#0;class#2407:2805" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#2407:2805" expanded="false" />
+            <element signature="class#2947:3345" expanded="false" />
+            <element signature="method#onItemSelected#0;class#2947:3345" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#2947:3345" expanded="false" />
+            <element signature="class#3487:3885" expanded="false" />
+            <element signature="method#onItemSelected#0;class#3487:3885" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#3487:3885" expanded="false" />
+            <element signature="class#4250:4868" expanded="false" />
+            <element signature="method#onItemSelected#0;class#4250:4868" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#4250:4868" expanded="false" />
+            <element signature="class#5235:5852" expanded="false" />
+            <element signature="method#onItemSelected#0;class#5235:5852" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#5235:5852" expanded="false" />
+            <element signature="method#onStartTrackingTouch#0;class#9088:9593" expanded="false" />
+            <element signature="method#onStopTrackingTouch#0;class#9088:9593" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/startlayout.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="838" max-vertical-offset="1343">
+          <caret line="72" column="90" selection-start-line="72" selection-start-column="90" selection-end-line="72" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1139">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding>
+            <element signature="docComment;class#Player#0" expanded="false" />
+            <element signature="method#addItem#0;class#Player#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="97" max-vertical-offset="714">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="293" max-vertical-offset="2023">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MapView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3614" max-vertical-offset="4114">
+          <caret line="209" column="40" selection-start-line="209" selection-start-column="36" selection-end-line="209" selection-end-column="40" />
+          <folding>
+            <element signature="docComment;class#MapView#0" expanded="false" />
+            <element signature="method#drawMap#0;class#MapView#0" expanded="false" />
+            <element signature="method#getScale#0;class#MapView#0" expanded="false" />
+            <element signature="method#setScale#0;class#MapView#0" expanded="false" />
+            <element signature="e#3610#3622#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4097">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#startTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#doTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#endTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#actionCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#refreshScreen#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#createMessageDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#addMessageForAllPlayers#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#pickItems#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openItemsList#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#useItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dropItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#travelTroughPortal#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#shoot#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#castMagic#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearMonster#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dealDamageToPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#killPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#66300#66341#0" expanded="false" />
+            <element signature="e#66537#66569#0" expanded="false" />
+            <element signature="e#66817#66857#0" expanded="false" />
+            <element signature="e#67064#67096#0" expanded="false" />
+            <element signature="method#cellCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#71337#71392#0" expanded="false" />
+            <element signature="method#mapCheckHelper#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openQuitDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#startTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#doTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#endTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#actionCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#refreshScreen#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#createMessageDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#addMessageForAllPlayers#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#pickItems#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openItemsList#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#useItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dropItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#travelTroughPortal#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#shoot#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#castMagic#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearMonster#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dealDamageToPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#killPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#66300#66341#0" expanded="false" />
+            <element signature="e#66537#66569#0" expanded="false" />
+            <element signature="e#66817#66857#0" expanded="false" />
+            <element signature="e#67064#67096#0" expanded="false" />
+            <element signature="method#cellCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#71337#71392#0" expanded="false" />
+            <element signature="method#mapCheckHelper#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openQuitDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="177" max-vertical-offset="697">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MapView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="2737">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;class#MapView#0" expanded="false" />
+            <element signature="method#drawMap#0;class#MapView#0" expanded="false" />
+            <element signature="method#getScale#0;class#MapView#0" expanded="false" />
+            <element signature="method#setScale#0;class#MapView#0" expanded="false" />
+            <element signature="e#3610#3622#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="391">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#startTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#doTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#endTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#actionCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#refreshScreen#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#createMessageDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#addMessageForAllPlayers#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#pickItems#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openItemsList#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#useItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dropItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#travelTroughPortal#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#shoot#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#castMagic#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearMonster#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dealDamageToPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#killPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#66300#66341#0" expanded="false" />
+            <element signature="e#66537#66569#0" expanded="false" />
+            <element signature="e#66817#66857#0" expanded="false" />
+            <element signature="e#67064#67096#0" expanded="false" />
+            <element signature="method#cellCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#71337#71392#0" expanded="false" />
+            <element signature="method#mapCheckHelper#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openQuitDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="442">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MapView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="663">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="docComment;class#MapView#0" expanded="false" />
+            <element signature="method#drawMap#0;class#MapView#0" expanded="false" />
+            <element signature="method#getScale#0;class#MapView#0" expanded="false" />
+            <element signature="method#setScale#0;class#MapView#0" expanded="false" />
+            <element signature="e#3610#3622#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xhdpi/wall0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xhdpi/wall0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xhdpi/floor0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/android-sdk/sources/android-19/android/os/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33144477" vertical-offset="2178" max-vertical-offset="4675">
+          <caret line="153" column="0" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/android-sdk/sources/android-19/android/os/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33235294" vertical-offset="1349" max-vertical-offset="12291">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/android-sdk/sources/android-19/android/widget/AbsListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="161.71672" vertical-offset="0" max-vertical-offset="114189">
+          <caret line="3488" column="0" selection-start-line="3488" selection-start-column="0" selection-end-line="3488" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="38" column="64" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/GroupOfPortals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="901">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1003">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="996" max-vertical-offset="2023">
+          <caret line="74" column="34" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1989">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#Player#0" expanded="false" />
+            <element signature="method#addItem#0;class#Player#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/startlayout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2672" max-vertical-offset="3298">
+          <caret line="178" column="55" selection-start-line="178" selection-start-column="55" selection-end-line="178" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/StartActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1294" max-vertical-offset="3111">
+          <caret line="169" column="61" selection-start-line="169" selection-start-column="37" selection-end-line="169" selection-end-column="61" />
+          <folding>
+            <element signature="class#1867:2265" expanded="false" />
+            <element signature="method#onItemSelected#0;class#1867:2265" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#1867:2265" expanded="false" />
+            <element signature="class#2407:2805" expanded="false" />
+            <element signature="method#onItemSelected#0;class#2407:2805" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#2407:2805" expanded="false" />
+            <element signature="class#2947:3345" expanded="false" />
+            <element signature="method#onItemSelected#0;class#2947:3345" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#2947:3345" expanded="false" />
+            <element signature="class#3487:3885" expanded="false" />
+            <element signature="method#onItemSelected#0;class#3487:3885" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#3487:3885" expanded="false" />
+            <element signature="class#4250:4868" expanded="false" />
+            <element signature="method#onItemSelected#0;class#4250:4868" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#4250:4868" expanded="false" />
+            <element signature="class#5235:5852" expanded="false" />
+            <element signature="method#onItemSelected#0;class#5235:5852" expanded="false" />
+            <element signature="method#onNothingSelected#0;class#5235:5852" expanded="false" />
+            <element signature="method#onStartTrackingTouch#0;class#9088:9593" expanded="false" />
+            <element signature="method#onStopTrackingTouch#0;class#9088:9593" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="629">
+          <caret line="11" column="103" selection-start-line="11" selection-start-column="103" selection-end-line="11" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MapView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4418" max-vertical-offset="5423">
+          <caret line="304" column="132" selection-start-line="304" selection-start-column="132" selection-end-line="304" selection-end-column="132" />
+          <folding>
+            <element signature="docComment;class#MapView#0" expanded="false" />
+            <element signature="method#drawMap#0;class#MapView#0" expanded="false" />
+            <element signature="method#getScale#0;class#MapView#0" expanded="false" />
+            <element signature="method#setScale#0;class#MapView#0" expanded="false" />
+            <element signature="e#3610#3622#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2625" max-vertical-offset="3502">
+          <caret line="1348" column="54" selection-start-line="1348" selection-start-column="54" selection-end-line="1348" selection-end-column="54" />
+          <folding>
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#startTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#doTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#endTurn#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#actionCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#refreshScreen#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#createMessageDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#addMessageForAllPlayers#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#pickItems#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openItemsList#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#useItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dropItem#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#travelTroughPortal#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#shoot#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#castMagic#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#fightWithNearMonster#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#dealDamageToPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#killPlayer#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#66300#66341#0" expanded="false" />
+            <element signature="e#66537#66569#0" expanded="false" />
+            <element signature="e#66817#66857#0" expanded="false" />
+            <element signature="e#67064#67096#0" expanded="false" />
+            <element signature="method#cellCheck#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#71337#71392#0" expanded="false" />
+            <element signature="method#mapCheckHelper#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#openQuitDialog#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Pt239/DangeonQuest/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5989848" vertical-offset="37" max-vertical-offset="697">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
