@@ -3,4 +3,4 @@ Multiplayer game for Android. Mix of roguelike and famous russian board game "La
 
 # Installation
 If you wish to install this game on your Android device, simply download this .apk file:
-https://github.com/ArtemPt239/Dungeon-Quest/raw/master/DangeonQuest/out/production/DangeonQuest/DangeonQuest.apk
+[DangeonQuest.apk](https://github.com/ArtemPt239/Dungeon-Quest/raw/master/DangeonQuest/out/production/DangeonQuest/DangeonQuest.apk)
